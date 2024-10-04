@@ -11,6 +11,8 @@ public class Sample {
 		
 		System.out.println("i want write new code>>>");
 		
+		System.out.println("its D");
+		
 
 	}
 
