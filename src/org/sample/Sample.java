@@ -8,6 +8,9 @@ public class Sample {
 
 		int i = 100;
 		System.out.println(i);
+		
+		System.out.println("i want write new code>>>");
+		
 
 	}
 
